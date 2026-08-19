@@ -161,6 +161,7 @@ Workforce distribution
 Interactive filtering by department and employee characteristics
 
 Dashboard Preview
+![HR Analytics Dashboard](Screenshot%202026-08-19%20234016.png)
 
 
 
