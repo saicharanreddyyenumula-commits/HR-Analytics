@@ -21,8 +21,6 @@ What is the overall employee attrition rate?
 
 Which departments and job roles have the highest attrition?
 
-Does overtime relate to higher employee attrition?
-
 Which age groups have higher attrition?
 
 How does work-life balance relate to employee retention?
@@ -87,33 +85,7 @@ Marital status
 
 Data Preparation
 
-The dataset was reviewed and prepared for analysis by checking:
 
-Duplicate employee records
-
-Missing values
-
-Inconsistent category labels
-
-Data types
-
-Numeric and categorical fields
-
-Attrition and workforce metrics
-
-Data quality items identified
-
-2 duplicate records were identified and should be removed before
-the final published dashboard.
-
-BusinessTravel contains both Travel_Rarely and TravelRarely;
-these should be standardized into one category.
-
-YearsWithCurrManager contains 61 missing values and should be
-handled appropriately based on the analysis requirement.
-
-Note: The Power BI dashboard should reflect these cleaning steps
-before the final portfolio version is published.
 
 Dashboard
 
